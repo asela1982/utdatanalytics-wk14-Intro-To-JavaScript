@@ -1,0 +1,56 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    color: #222;
+}
+
+
+#box1{
+  height: 50vh;
+  width: 100%;
+  background-image: url(http://moziru.com/images/heaven-clipart-desktop-wallpaper-20.jpg);
+  display: table;
+  background-attachment: fixed;
+}
+  
+
+h1{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
+thead th{
+    font-size: 0.75em;
+    font-weight: bolder;
+    background: #19647E;
+    color: white;
+    text-align: center;
+  }
+
+tbody td{
+    font-size: 0.75em;
+    text-justify: auto;
+  }
+
+.table th:nth-child(7) {
+    width: 40%;
+  }
+
+tbody td:nth-child(7){
+    font-style: italic;
+  }
+
+  tbody td:nth-child(1){
+    font-weight: bold;
+  }
+
+.table-wrapper{
+overflow:scroll;
+height:600px
+}
+  
