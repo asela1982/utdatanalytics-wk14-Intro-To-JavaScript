@@ -49,4 +49,7 @@ tbody td:nth-child(1){
     font-weight: bold;
   }
 
-
+.table-wrapper{
+    overflow:scroll;
+    height:600px
+    }
