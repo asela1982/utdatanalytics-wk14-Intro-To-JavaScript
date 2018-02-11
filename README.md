@@ -9,7 +9,7 @@ We May Not be a Alone is a client-side Javascript application which explores a d
 * Bootstrap
 
 #### Images from the final app
-![final_app_part1.png](images/final_app_part1.png)
+![final_app_part1.png](images/final_app_part.png)
 
 #### Todo
 Paginate the Table
